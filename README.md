@@ -5,6 +5,8 @@ This is a deprecated repo.
 The code is over 3 years old and an official terraform provider for mongo atlas is already available.
 
 
+<details><summary>Deprecated README</summary>
+<p>
 
 # Terraform Mongo Atlas Provider
 
@@ -103,3 +105,7 @@ resource "mongoatlas_database_user" "test_user" {
 - [x] Must check how Container works with mongodb atlas
 - [ ] Complete TODO throughout the written code
 - [ ] Check if schema are correctly defined
+
+
+</p>
+</details>
